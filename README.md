@@ -69,12 +69,20 @@ Interactive Slicers allow dynamic filtering by:  <br>
 •	Occasion  <br>
 
 # Key Insights 
-• Sales peak during February–March and August, indicating strong seasonal demand.  <br>
-• Anniversary and Raksha Bandhan generate the highest revenue among occasions.  <br>
-• Colors, Soft Toys, and Sweets are the top-performing product categories.  <br>
-• A small number of products contribute significantly to overall revenue.  <br>
-• Cities like Bareilly and Ghaziabad have higher order volumes.  <br>
-• Sales are stronger on Tuesdays and Sundays, suggesting weekday demand variation. <br>
+Key Insights from the Analysis
+
+• Sales show strong seasonal trends, with the highest revenue in February (₹7,04,509) and August (₹7,37,389).
+
+• Anniversary (₹6,74,634) and Raksha Bandhan (₹6,31,585) generate the highest revenue among all occasions.
+
+• Colors, Soft Toys, and Sweets are the top-performing product categories.
+
+• The top 5 products contributing the most to revenue are:
+Deserunt Box, Dolores Gift, Harum Pack, Magnam Set, and Quia Gift.
+
+• Cities such as Bareilly and Ghaziabad show higher order volumes compared to other locations.
+
+• Sales are stronger on Tuesdays and Sundays, indicating variation in demand across weekdays.
 
 
 
