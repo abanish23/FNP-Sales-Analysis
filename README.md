@@ -78,7 +78,7 @@ Interactive Slicers allow dynamic filtering by:  <br>
  Files in Repository <br>
  # Files Included 
 
-- Excel_Dashboard.xlsx → Final interactive dashboard  <br>
+- FNP Analysis.xlsx → Final interactive dashboard  <br>
 - Dataset.xlsx → Raw dataset used for analysis  <br>
 - Screenshots → Dashboard preview images  <br>
 
