@@ -75,12 +75,4 @@ Interactive Slicers allow dynamic filtering by:  <br>
 • A small number of products contribute significantly to overall revenue.  <br>
 • Cities like Bareilly and Ghaziabad have higher order volumes.  <br>
 • Sales are stronger on Tuesdays and Sundays, suggesting weekday demand variation. <br>
- Files in Repository <br>
- # Files Included 
 
-- FNP Analysis.xlsx → Final interactive dashboard  <br>
-- DATA → Raw dataset used for analysis  <br>
-- FNP Dashbaord.png → Dashboard preview images  <br>
-
-# Dashboard Preview
-Dashboard Preview  <br>
