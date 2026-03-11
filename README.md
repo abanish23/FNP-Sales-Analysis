@@ -76,6 +76,5 @@ Interactive Slicers allow dynamic filtering by:  <br>
 • Cities like Bareilly and Ghaziabad have higher order volumes.  <br>
 • Sales are stronger on Tuesdays and Sundays, suggesting weekday demand variation. <br>
 
-https://github.com/abanish23/FNP-Sales-Analysis/issues/1#issue-4055215054
 
 
